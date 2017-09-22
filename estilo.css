@@ -6,8 +6,8 @@
 body{
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-weight:900;
-	background:rgba(194,203,204,1);
-	color:rgba(194,203,204,1);
+	background:rgba(194,203,224,1);
+	color:rgba(0,0,0,1);
 
 
 h1, h2, h3{font-family: 'Open Sans Condensed', sans-serif;text-align:center;font-weight:800;}
@@ -62,7 +62,7 @@ video{
 	width:46%;
 	padding:2%;
 	float:left;
-	background-color:white;
+	background-color:red;
 	}
 
 .dupla a{
@@ -151,7 +151,7 @@ video{
 	width:23%;
 	margin:1%;
 	color:#333;
-	background:lightblue;
+	background:white;
 	box-shadow:0 0 5px rgb(240,240,240);
 }
 
