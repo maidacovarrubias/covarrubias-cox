@@ -4,15 +4,15 @@
 }
 
 body{
-	font-family: 'Open Sans Condensed', sans-serif;
-	font-weight:900;
-	background:rgba(247,206,252,98);
-	color:rgba(2,3,4,1);
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	font-weight:400;
+	background:rgba(255,255,255,100);
+	color:rgba(0,0,0,100);
+}
 
+h1, h2, h3{text-align:center; font-weight:700;}
 
-h1, h2, h3{font-family: 'Open Sans Condensed', sans-serif;text-align:center;font-weight:800;}
-
-h4, h5, h6{font-weight:900;font-size-adjust:}
+h4, h5, h6{font-weight:700;}
 
 h1{letter-spacing:0.1em; color:rgba(255,255,255,0.75);}
 
