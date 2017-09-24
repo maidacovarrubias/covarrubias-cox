@@ -14,9 +14,9 @@ h1, h2, h3{text-align:center; font-weight:700;}
 
 h4, h5, h6{font-weight:700;}
 
-h1{letter-spacing:0.1em; color:rgba(249,128,28,0.75);}
+h1{letter-spacing:0.1em; color:rgba(247,206,252,0.75);}
 
-h2{letter-spacing:0.02em; color:rgba(30,247,46,0.5); padding:0.2em 0; }
+h2{letter-spacing:0.02em; color:rgba(247,206,252,0.5); padding:0.2em 0; }
 
 h3{letter-spacing:0.2em; color:rgba(0,0,0,1); padding:2em 0 0.6em 0; }
 
@@ -54,7 +54,7 @@ video{
 
 #somos{
 	width:100%;
-	background:rgb(30,247,236);
+	background:rgb(255,255,255);
 	margin-bottom:2%;
 	}
 
@@ -128,8 +128,8 @@ video{
 	}
 
 @-webkit-keyframes fondo {
-	from {background-color:rgba(241,230,210,1);}
-	to {background-color:rgba(231,240,239,1);}
+	from {background-color:rgba(255,255,0,1);}
+	to {background-color:rgba(255,255,0,1);}
 }
 
 @-moz-keyframes fondo {
