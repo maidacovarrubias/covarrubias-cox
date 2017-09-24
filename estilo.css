@@ -118,7 +118,7 @@ video{
 
 #portafolio{
 	width:100%;
-	background:rgb(blue);
+	background:rgb(white);
 	padding-bottom:1%;
 	/* 4 veces lo mismo, para que funcione en distintos navegadores */
 	-webkit-animation: fondo 3s infinite linear alternate;
@@ -128,31 +128,31 @@ video{
 	}
 
 @-webkit-keyframes fondo {
-	from {background-color:rgba(255,255,0,1);}
-	to {background-color:rgba(255,255,0,1);}
+	from {background-color:rgba(white);}
+	to {background-color:rgba(white);}
 }
 
 @-moz-keyframes fondo {
-	from {background-color:rgba(255,255,0,1);}
-	to {background-color:rgba(255,255,0,1);}
+	from {background-color:rgba(white);}
+	to {background-color:rgba(white);}
 }
 
 @-ms-keyframes fondo {
-	from {background-color:rgba(255,255,0,1);}
-	to {background-color:rgba(231,240,239,1);}
+	from {background-color:rgba(white);}
+	to {background-color:rgba(white);}
 }
 
 @keyframes fondo {
-	from {background-color:rgba(255,255,0,1);}
-	to {background-color:rgba(255,255,0,1);}
+	from {background-color:rgba(white);}
+	to {background-color:rgba(white);}
 }
 
 .item {
 	width:23%;
 	margin:1%;
-	color:#6D6626;
-	background:6D6626;
-	box-shadow:0 0 5px rgb(240,240,240);
+	color:#686868;
+	background:686868;
+	box-shadow:0 0 5px rgb(250,250,250);
 }
 
 .item figure{overflow:hidden;}
