@@ -54,7 +54,7 @@ video{
 
 #somos{
 	width:100%;
-	background:rgb(250,250,250);
+	background:rgb(247,206,252);
 	margin-bottom:2%;
 	}
 
@@ -62,7 +62,7 @@ video{
 	width:46%;
 	padding:2%;
 	float:left;
-	background-color:red;
+	background-color:blue;
 	}
 
 .dupla a{
@@ -118,7 +118,7 @@ video{
 
 #portafolio{
 	width:100%;
-	background:rgb(250,250,250);
+	background:rgb(blue);
 	padding-bottom:1%;
 	/* 4 veces lo mismo, para que funcione en distintos navegadores */
 	-webkit-animation: fondo 3s infinite linear alternate;
@@ -150,8 +150,8 @@ video{
 .item {
 	width:23%;
 	margin:1%;
-	color:#333;
-	background:white;
+	color:#F7E1F9;
+	background:F7E1F9;
 	box-shadow:0 0 5px rgb(240,240,240);
 }
 
