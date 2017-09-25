@@ -6,7 +6,7 @@
 body{
 	font-family: 'Roboto Condensed', sans-serif;
 	font-weight:400;
-	background:rgba(255,255,255,100);
+	background:rgba(167,138,138,100);
 	color:rgba(0,0,0,100);
 }
 
@@ -62,7 +62,7 @@ video{
 	width:46%;
 	padding:2%;
 	float:left;
-	background-color:red;
+	background-color:black;
 	}
 
 .dupla a{
