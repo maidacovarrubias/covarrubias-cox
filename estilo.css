@@ -6,7 +6,7 @@
 body{
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	font-weight:400;
-	background:rgba(247,206,252,100);
+	background:rgba(255,255,255,100);
 	color:rgba(0,0,0,100);
 }
 
@@ -14,9 +14,9 @@ h1, h2, h3{text-align:center; font-weight:700;}
 
 h4, h5, h6{font-weight:700;}
 
-h1{letter-spacing:0.1em; color:rgba(247,206,252,0.75);}
+h1{letter-spacing:0.1em; color:rgba(255,255,255,0.75);}
 
-h2{letter-spacing:0.02em; color:rgba(247,206,252,0.5); padding:0.2em 0; }
+h2{letter-spacing:0.02em; color:rgba(255,255,255,0.5); padding:0.2em 0; }
 
 h3{letter-spacing:0.2em; color:rgba(0,0,0,1); padding:2em 0 0.6em 0; }
 
@@ -54,7 +54,7 @@ video{
 
 #somos{
 	width:100%;
-	background:rgb(255,255,255);
+	background:rgb(250,250,250);
 	margin-bottom:2%;
 	}
 
@@ -62,7 +62,7 @@ video{
 	width:46%;
 	padding:2%;
 	float:left;
-	background-color:blue;
+	background-color:red;
 	}
 
 .dupla a{
@@ -79,7 +79,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(255,0,0,1);
+	background-color:rgba(241,230,210,1);
 	background-image:url('media/dupla-01.jpg');
 	background-position:top right;
 	background-repeat:no-repeat;
@@ -96,7 +96,7 @@ video{
 .segunda{
 	min-height:300px;
 	text-align:right;
-	background-color:rgba(255,255,255,1);
+	background-color:rgba(231,240,239,1);
 	background-image:url('media/dupla-02.jpg');
 	background-position:top left;
 	background-repeat:no-repeat;
@@ -118,7 +118,7 @@ video{
 
 #portafolio{
 	width:100%;
-	background:rgb(white);
+	background:rgb(250,250,250);
 	padding-bottom:1%;
 	/* 4 veces lo mismo, para que funcione en distintos navegadores */
 	-webkit-animation: fondo 3s infinite linear alternate;
@@ -128,31 +128,31 @@ video{
 	}
 
 @-webkit-keyframes fondo {
-	from {background-color:rgba(225,249,247,1);}
-	to {background-color:rgba(225,249,247,1);}
+	from {background-color:rgba(241,230,210,1);}
+	to {background-color:rgba(231,240,239,1);}
 }
 
 @-moz-keyframes fondo {
-	from {background-color:rgba(225,249,247,1);}
-	to {background-color:rgba(225,249,247,1);}
+	from {background-color:rgba(241,230,210,1);}
+	to {background-color:rgba(231,240,239,1);}
 }
 
 @-ms-keyframes fondo {
-	from {background-color:rgba(225,249,247,1);}
-	to {background-color:rgba(225,249,247,1);}
+	from {background-color:rgba(241,230,210,1);}
+	to {background-color:rgba(231,240,239,1);}
 }
 
 @keyframes fondo {
-	from {background-color:rgba(225,249,247,1);}
-	to {background-color:rgba(225,249,247,1);}
+	from {background-color:rgba(241,230,210,1);}
+	to {background-color:rgba(231,240,239,1);}
 }
 
 .item {
 	width:23%;
 	margin:1%;
-	color:#FFFFFF;
-	background:rgba(247,206,252,100);
-	box-shadow:0 0 5px rgb(250,250,250);
+	color:#333;
+	background:white;
+	box-shadow:0 0 5px rgb(240,240,240);
 }
 
 .item figure{overflow:hidden;}
@@ -212,7 +212,7 @@ footer hr{
 	.item{
 		width:48%;
 		margin:1%;
-		background:white;
+		background:black;
 		color:#ddd
 	}
 
