@@ -150,8 +150,8 @@ video{
 .item {
 	width:23%;
 	margin:1%;
-	color:#F7CEFC;
-	background:white;
+	color:#FFFFFF;
+	background:rgba(247,206,252,100);
 	box-shadow:0 0 5px rgb(250,250,250);
 }
 
